@@ -1,5 +1,7 @@
 # Customer Segmentation: Business-Oriented Clustering Algorithms
 
+Take a look of the project: https://nbviewer.org/github/CeloCruz/CustomerSegmentation/blob/main/Customer_Segmentation_Final_Github.ipynb
+
 ## Project Overview
 The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. By leveraging machine learning techniques, the project aims to uncover customer segments and gain valuable business insights.
 
