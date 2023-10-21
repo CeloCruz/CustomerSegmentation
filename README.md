@@ -1,9 +1,9 @@
 # Customer Segmentation: Business-Oriented Clustering Algorithms
 
-Take a look of the project: https://nbviewer.org/github/CeloCruz/CustomerSegmentation/blob/main/Customer_Segmentation_Final_Github.ipynb
+Take a look at the project: https://nbviewer.org/github/CeloCruz/CustomerSegmentation/blob/main/Customer_Segmentation_Final_Github.ipynb
 
 ## Project Overview
-The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. By leveraging machine learning techniques, the project aims to uncover customer segments and gain valuable business insights.
+The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. The project aims to uncover customer segments and gain valuable business insights by leveraging machine learning techniques.
 
 ## Problem Statement
 The primary goal of this project, from both a business and data scientist perspective, is to understand customers better and tailor products to their specific needs, behaviors, and concerns within different customer segments.
@@ -21,11 +21,11 @@ In unsupervised learning, performance assessment involves both quantitative and 
 4. **Results Presentation:** The outcomes are presented in a user-friendly format.
 
 ## Conclusion
-Customer Personality Analysis plays a crucial role in helping businesses understand their customers and adapt their products accordingly. This project serves as a guide for delving into advanced clustering techniques and uncovering valuable business insights.
+Customer Personality Analysis is crucial in helping businesses understand their customers and adapt their products accordingly. This project serves as a guide for delving into advanced clustering techniques and uncovering valuable business insights.
 
 ## Contributions and Feedback
 Contributions and feedback are highly valued for this project. Feel free to explore the code, datasets, and documentation.
 
-Thank you for your interest in our project!
+I appreciate your interest in our project!
 
 ---
