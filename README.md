@@ -3,11 +3,10 @@
 Take a look at the project: https://nbviewer.org/github/CeloCruz/CustomerSegmentation/blob/main/Customer_Segmentation_Final_Github.ipynb
 
 ## Project Overview
-The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. The project aims to uncover customer segments and gain valuable business insights by leveraging machine learning techniques.
 
-**Objective**:
+**Objective**: The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. The project aims to uncover customer segments and gain valuable business insights by leveraging machine learning techniques.
 
-**Description**:
+**Description**: This endeavor employs a structured approach, following the CRISP-DM methodology, to analyze and modify products based on specific customer segments. The project's focus lies in applying advanced clustering techniques to extract meaningful insights for businesses. Key skills honed throughout the project include data preprocessing, feature engineering, data visualization, and unsupervised machine learning. With an emphasis on the application of KMeans, DBSCAN, and Hierarchical Clustering, this project offers an in-depth exploration of customer segmentation. The outcomes are driven by a business perspective, ensuring effective communication of results to non-technical audiences, and paving the way for businesses to adapt and thrive. Explore the code, datasets, and documentation to uncover the wealth of insights this project has to offer.
 
 ## Skills and tools used
 * Principal Libraries: Pandas, Numpy, Scikit-Learn.
