@@ -5,27 +5,37 @@ Take a look at the project: https://nbviewer.org/github/CeloCruz/CustomerSegment
 ## Project Overview
 The Customer Personality Analysis project focuses on understanding and analyzing customer behavior to help businesses modify their products based on specific customer segments. The project aims to uncover customer segments and gain valuable business insights by leveraging machine learning techniques.
 
-## Problem Statement
-The primary goal of this project, from both a business and data scientist perspective, is to understand customers better and tailor products to their specific needs, behaviors, and concerns within different customer segments.
+**Objective**:
 
-## Data Source
-The dataset for this project is provided by Dr. Omar Romero-Hernandez.
+**Description**:
 
-## Performance Measure
-In unsupervised learning, performance assessment involves both quantitative and qualitative methods. Notable quantitative techniques include the Silhouette Score, which quantifies cluster separation, and the Elbow Method, which helps determine the optimal number of clusters.
+## Skills and tools used
+* Principal Libraries: Pandas, Numpy, Scikit-Learn.
+* Data Visualization: Matplotlib, Seaborn, ipywidgets.
+* Clustering models: KMeans, DBSCAN, Hierarchy Clustering.
+* Organization: Notion.
+* Methodology: CRISP-DM.
 
-## Key Phases
-1. **Exploratory Data Analysis (EDA):** A comprehensive EDA is performed with a business perspective to gain insights into customer behavior and needs.
-2. **Clustering Algorithms:** Various clustering algorithms are applied, including hierarchical and DBSCAN, with KMeans emerging as the winning choice.
-3. **Iterative Process:** The project goes through an iterative process to achieve satisfactory results from a business perspective.
-4. **Results Presentation:** The outcomes are presented in a user-friendly format.
+* Skills required in the project:
+  * Business Understanding
+  * Critical Thinking & Problem Solving
+  * Domain Knowledge in Customer Behavior
+  * Data Analysis
+  * Data Transformation for relevant insights
+  * Data Visualization
+  * Data Preprocessing
+  * Data Wrangling
+  * Feature Selection and Engineering
+  * Unsupervised Machine Learning
+  * Clustering Techniques
+  * Analyze the outcomes from a business perspective
+  * Communication and Presentation: Effective Communication of Results to Non-Technical Audiences
 
 ## Conclusion
 Customer Personality Analysis is crucial in helping businesses understand their customers and adapt their products accordingly. This project serves as a guide for delving into advanced clustering techniques and uncovering valuable business insights.
 
-## Contributions and Feedback
 Contributions and feedback are highly valued for this project. Feel free to explore the code, datasets, and documentation.
 
-I appreciate your interest in our project!
+I appreciate your interest in my project!
 
 ---
